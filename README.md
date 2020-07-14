@@ -1,2 +1,3 @@
 # infrared_sensor_arduino
 led patterns using infrared sensor..(arduino)
+its a simple led pattern using arduino and the output is also uploaded with the circuit diagram...
